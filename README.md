@@ -15,6 +15,8 @@ O Data Challenge é um bootcamp online que tem como principal objetivo proporcio
   O arquivo do jupyter https://github.com/sobrinhodasilva/UdacityDataChallenge/blob/master/modelo_risco/modelo_risco.ipynb com o código fonte dos modelos que foram testatos para comparação.
 
 ## Sequência de execusão 
-1 - Execute o data-wranglin-template.ipynb para importar e tranformar e exportar os datasets
-2 - Análise exploratória 
-3 - Modelo de risco
+1 Execute o data-wranglin-template.ipynb para importar e tranformar e exportar os datasets
+
+2 Análise exploratória 
+
+3 Modelo de risco
